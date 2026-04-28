@@ -18,7 +18,7 @@ Let’s face it: traditional sticky notes are where productivity goes to die. Yo
 
 ## 📸 Sightings of Productivity
 
-![Dodoit Demo](assets/demo.gif)
+![Dodoit Demo](assets/dodoit.gif)
 *(Insert a GIF of colorful circles distracting you from actual work here)*
 
 ## 📦 Installation (For the Tech-Challenged)
