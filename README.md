@@ -23,7 +23,7 @@ Let’s face it: traditional sticky notes are where productivity goes to die. Yo
 
 ## 📦 Installation (For the Tech-Challenged)
 
-1. Download `dodoit.exe` from the [Releases](https://github.com/AlexandreGuerra/dodoit/releases) tab.
+1. Download `dodoit.exe` from the [Releases](https://github.com/Vanderjohnny/dodoit/releases) tab.
 2. If Windows screams about a "Virus" or "Unknown Publisher," just click **"More info"** and **"Run anyway"**. It’s not a virus; it’s just the Windows SmartScreen being a helicopter parent.
 3. Throw a shortcut in `shell:startup` so your chores greet you before your coffee does.
 
